@@ -20,3 +20,7 @@ Example.-
 
 Hope you enjoy the hard work and long hours put into this.  Big Thnx to Alfred.Xia and Kawaii for teaching and guiding me in the right direction. I figured it out in the end.  thnx Ya'll.
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+update 7/17 release 3.6
+
+-Fixed Custom Order in which blink did not cast to hero pos properly.  Fully functional.
