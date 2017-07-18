@@ -6,7 +6,7 @@ update 4/16 release 3.5
 3) rewrite script to allow to better and smoother updates and changes
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-update 4/19 release 3.6
+#update 4/19 release 3.6
 
 -Added a damage calculator for items bought and equipped. 
 Example.- 
@@ -18,9 +18,19 @@ Example.-
 -Note* Working on bug that doesnt allow blink to function in custom combo menu.
 -Note* Regular Combo integrated into script works 100%
 
-Hope you enjoy the hard work and long hours put into this.  Big Thnx to Alfred.Xia and Kawaii for teaching and guiding me in the right direction. I figured it out in the end.  thnx Ya'll.
+Hope you enjoy the hard work and long hours put into this.  Thnx alfred and fooOoo for the help, I figured it out in the end.
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-update 7/17 release 3.6
+#update 7/17 release 3.6
 
--Fixed Custom Order in which blink did not cast to hero pos properly.  Fully functional.
+-Fixed Custom Order bug in which blink did not cast to hero pos properly.  Both Integrated and Custom Combo modes are fully funtional.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+#update 7/18 release 3.7 (latest release as of yet)
+
+-NEW FEATURE
+  1) Script now includes Toss Back Combo in which you use your personalized key to blink to enemy closest to your mouse position and toss them back to your CLOSEST ALLY.
+    *note: when tossing back to ally, it will toss enemy to your ally hero.  So if your ally is right next to you then it will toss enemy to him. Please be aware.
+  2) Let me know if your having any problems, hope you guys enjoy.
