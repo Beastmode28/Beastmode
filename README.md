@@ -32,6 +32,7 @@ Hope you enjoy the hard work and long hours put into this.  Thnx alfred and fooO
 
 -NEW FEATURE
   1) Script now includes Toss Back Combo in which you use your personalized key to blink to enemy closest to your mouse position and toss them back to your CLOSEST ALLY.
-*note: when tossing back to ally, it will toss enemy to your ally hero.  So if your ally is right next to you then it will toss enemy to him. Please be aware.
+
+-*note: when tossing back to ally, it will toss enemy to your ally hero.  So if your ally is right next to you then it will toss enemy to him. Please be aware.
   
   2) Let me know if your having any problems, hope you guys enjoy.
