@@ -31,7 +31,7 @@ Hope you enjoy the hard work and long hours put into this.  Thnx alfred and fooO
 #update 7/18 release 3.7 (latest release as of yet)
 
 -NEW FEATURE
-  1) Script now includes Toss Back Combo in which you use your personalized key to blink to enemy closest to your mouse position and toss them back to your CLOSEST ALLY.
+  1) Script now includes Toss Back Combo in which you use your personalized key to blink to enemy closest to your mouse position and toss them back to your CLOSEST ALLY.  The range for toss is 1300.  You can set a custom perimeter in hake menu.  For reference, blink has a range of 1200.  
 
 -*note: when tossing back to ally, it will toss enemy to your ally hero.  So if your ally is right next to you then it will toss enemy to him. Please be aware.
   
