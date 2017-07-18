@@ -18,7 +18,7 @@ Example.-
 -Note* Working on bug that doesnt allow blink to function in custom combo menu.
 -Note* Regular Combo integrated into script works 100%
 
-Hope you enjoy the hard work and long hours put into this.  Thnx alfred and fooOoo for the help, I figured it out in the end.
+Hope you enjoy the hard work and long hours put into this.  Thnx alfred and fooOoo for the tips, I figured it out in the end.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
