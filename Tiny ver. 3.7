@@ -180,7 +180,7 @@ function Tiny.Tossback()
     if not hero then return end
     
     local ally = NPC.GetHeroesInRadius(myHero, 1300, Enum.TeamType.TEAM_FRIEND)
-    if not ally then return end
+    if next(ally) == nil then return end
 
     if (os.clock() - time) < delay then return end
     if (os.clock() - lastcasttime) > 3 then order = 0 end
