@@ -135,7 +135,7 @@ function Tiny.Skycombo()
         lastcasttime = os.clock()
 
     -- 2. Blink
-    if blink and Menu.IsEnabled(Tiny.optionBlink) and Ability.IsCastable(blink, myMana) and (not Menu.IsKeyDown(Tiny.optionComOrder) or customCastNow and NPC.IsPositionInRange(myHero, NPC.GetAbsOrigin(hero),1100,0) == 2) then Ability.CastPosition(blink, heroPos) MakeDelay(0.1) return end  
+    if blink and Menu.IsEnabled(Tiny.optionBlink) and Ability.IsCastable(blink, myMana) and (not Menu.IsKeyDown(Tiny.optionComOrder) or customCastNow== 2) then Ability.CastPosition(blink, heroPos) MakeDelay(0.1) return end  
     
     -- 3. Veil
     if veil and Menu.IsEnabled(Tiny.optionVeil) and Ability.IsCastable(veil,myMana) and (not Menu.IsKeyDown(Tiny.optionComOrder) or customCastNow == 3) then Ability.CastPosition(veil, heroPos) return end
